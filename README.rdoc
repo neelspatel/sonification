@@ -1,0 +1,17 @@
+==Sonification Software
+
+Software developed to create sonifications (non-speech auditory patterns).
+
+==Summary
+
+The majority of my research from 2009 to 2012 focused on innovative human-computer interfaces. My main interest was in sonifications, or the use of non-speech sound to represent patterns in data. Instead of looking at a line graph, a sonification could use changing pitch, intensity, or tempo to convey the same trend in data. 
+
+As part of this research, I developed software tools to convert a dataset into sound (represented in MusicXML format). I also developed supporting software to study listener comprehension of sonifications, which were primarly Processing-based data collection tools. 
+
+I developed the code as a personal research tool, and I don't have time to package it or clean it up. The code probably isn't very reusable, but I'd love to chat about sonification software if you're interested.
+
+==Screenshots and Examples
+
+Example of the sonification creation program including GUI (VBA based, Excel embedded)
+
+http://www.npatel.me/img/sonify.png
